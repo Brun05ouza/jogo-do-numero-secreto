@@ -1,6 +1,6 @@
 # 🎮 Jogo do Número Secreto 2.0
 
-Um jogo interativo de adivinhação desenvolvido em JavaScript, HTML e CSS com recursos de síntese de voz.
+Um jogo interativo de adivinhação desenvolvido em JavaScript, HTML e CSS com recursos de síntese de voz. Feito com o curso Logica e Programação da Alura! 
 
 ## 📋 Sobre o Projeto
 
@@ -99,4 +99,4 @@ Este projeto foi desenvolvido para fins educacionais.
 
 ---
 
-Desenvolvido com ❤️ durante o curso de JavaScript
+Desenvolvido com ❤️ durante o curso de JavaScript da Alura
